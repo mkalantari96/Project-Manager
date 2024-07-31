@@ -12,8 +12,6 @@ Project Manager is a robust web application designed to help individuals and tea
 
 - Create, update, and delete projects
 - Task management within projects
-- User authentication and authorization
-- Real-time collaboration and updates
 - Responsive design for mobile and desktop devices
 - Dashboard with project summaries and statistics
 
